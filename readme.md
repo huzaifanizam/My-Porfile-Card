@@ -3,9 +3,17 @@
 <img src="./img/web2.png" alt="GitHUB" align="center" >
 
 ## "Mobile View"
-<img src="./img/mobile.png" alt="GitHUB" align="center" >
 <img src="./img/mobile 2.png" alt="GitHUB" align="center" >
+<img src="./img/mobile.png" alt="GitHUB" align="center" >
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
